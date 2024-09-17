@@ -1,0 +1,9 @@
+[package]
+name = "game_of_evolution"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sdl2 = "*"
+rand = "*"
+nalgebra = "0.33.0"
